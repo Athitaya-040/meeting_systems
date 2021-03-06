@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer",
+    "naumovs.color-highlight",
+    "vincaslt.highlight-matching-tag",
+    "christian-kohler.path-intellisense"
+  ]
+}
